@@ -1,0 +1,18 @@
+@import url("https://fonts.googleapis.com/css2?family=Courier+Prime:ital,wght@0,400;0,700;1,400;1,700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:ital,wght@0,200..800;1,200..800&display=swap");
+
+@import "tailwindcss";
+
+@theme {
+  --color-main: #282a36;
+  --color-second: #21222c;
+  --color-bottom: #343645;
+  --color-fontmain: #f8f8f2;
+  --color-fontbiru: #8be9fd;
+  --color-fontungu: #9c93f9;
+  --color-fontpink: #ff79c6;
+  --color-fonthijau: #4afa72;
+
+  --font-fontmain: "Courier Prime", monospace;
+  --font-fontsec: "Plus Jakarta Sans", sans;
+}
